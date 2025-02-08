@@ -14,8 +14,8 @@ A RESTful API for a social network application where users can create accounts, 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
-   cd social-network
+   git clone <https://github.com/Azugr/Module-17-Challenge>
+   cd Social-Network
    ```
 2. Initialize the project and install dependencies:
    ```sh
@@ -41,16 +41,12 @@ A RESTful API for a social network application where users can create accounts, 
 7. Set up the database connection:
    - Create a `.env` file with the following:
      ```env
-     MONGODB_URI=mongodb://localhost:27017/socialNetworkDB
-     PORT=3001
+      MONGODB_URI=mongodb://127.0.0.1:27017/socialNetworkDB
+      PORT=3001
      ```
 
 ## Usage
-1. Start the development server:
-   ```sh
-   npm run start:dev
-   ```
-2. Start the production server:
+1. Start the production server:
    ```sh
    npm run start
    ```
