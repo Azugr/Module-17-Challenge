@@ -9,6 +9,6 @@ router.route('/:userId')
     .put(updateUser)
     .delete(deleteUser);
 router.route('/:userId/friends/:friendId')
-    .post(addFriend)
+    .put(addFriend)
     .delete(removeFriend);
 export default router;
