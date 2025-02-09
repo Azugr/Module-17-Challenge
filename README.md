@@ -75,8 +75,11 @@ A RESTful API for a social network application where users can create accounts, 
 - `POST` → Create a reaction
 - `DELETE /:reactionId` → Remove a reaction
 
+### Github Repository
+https://github.com/Azugr/Module-17-Challenge
+
 ## Walkthrough Video
-[GitHub Repository](https://github.com/Azugr/Module-17-Challenge)
+https://drive.google.com/file/d/1cPNUzT0JBqS1PAp7dVJGMfuYWVeU0YVr/view?usp=sharing
 
 ## License
 This project is licensed under the **MIT License**.
